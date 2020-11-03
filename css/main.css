@@ -1,0 +1,18 @@
+/* Some defaults fixes */
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+
+
+
+/* Typography */
+
+body {
+    font-size: 18px;
+}
